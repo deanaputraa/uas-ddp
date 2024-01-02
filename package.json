@@ -1,5 +1,5 @@
 {
-  "name": "orderly",
+  "name": "uas-ddp",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -10,7 +10,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "prettier": "^3.1.1",
     "prompt-sync": "^4.2.0"
   }
 }
