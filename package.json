@@ -1,0 +1,16 @@
+{
+  "name": "orderly",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "prettier": "^3.1.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
